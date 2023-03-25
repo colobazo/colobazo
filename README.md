@@ -12,9 +12,9 @@
 - <b>Setting up SIEM in Azure</b>
   - [AZURE Sentinel: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/colobazo/Azure-Sentinel-SIEM-)
 - <b>Creating a File Integrity Monitor (FIM)</b>
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [FIM (File Integrity Monitor)](https://github.com/colobazo/File-Integrity-Monitor)
 - <b>Vulnerability Management Lab</b>
-  - [Configured Nessus Essentials to perform credential vulnerability scans](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Sandbox)</b></i>
+  - [Configured Nessus Essentials to perform credential vulnerability scans](#) <b><i>(Sandbox)</b></i>
   
 <h2>📺 Certifications</h2>
 
