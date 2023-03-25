@@ -7,7 +7,7 @@
 
 - <b>Active Diretory Home Lab</b>
   - [JWipe (Disk Wiping Utility)](https://github.com/colobazo/DiskSanitazation)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [Active Directory Bulk User Creation](https://github.com/colobazo/Active-Directory-Bulk-User-Creation)
   
 - <b>Setting up SIEM in Azure</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
