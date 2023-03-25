@@ -10,7 +10,7 @@
   - [Active Directory Bulk User Creation](https://github.com/colobazo/Active-Directory-Bulk-User-Creation)
   
 - <b>Setting up SIEM in Azure</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [AZURE Sentinel: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/colobazo/Azure-Sentinel-SIEM-)
 - <b>Creating a File Integrity Monitor (FIM)</b>
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Vulnerability Management Lab</b>
